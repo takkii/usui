@@ -8,8 +8,6 @@
 
 > unzip  解凍
 
-**詳しくは、[タグ屋さんの平台](http://rubyist.hatenablog.com/entry/2016/09/28/203450)を参照してください**
-
 ## コンパイル
 
 > git clone https://github.com/takkii/usui.git
