@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 module Usui
-  VERSION = '0.0.6.2'.freeze
+  VERSION = '0.0.6.3'.freeze
 end
 
 # 0.0.1→hello,world
@@ -13,5 +13,6 @@ end
 # 0.0.6→RubyGemsに表示するファイルを1file→18fileに変更
 # 0.0.6.1→文字列にutf8指定
 # 0.0.6.2→内部デバッグで修正
+# 0.0.6.3→RubyGems側ホームページリンク切れ対応
 
 __END__
