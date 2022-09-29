@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Usui will work with Java in the jar file."
   spec.description   = "Usui can be compressed and decompressed 18 file."
-  spec.homepage      = "http://rubyist.hatenablog.com/"
+  spec.homepage      = "https://github.com/takkii/usui"
   spec.license       = "MIT"
   spec.files         = ["usui.jar"]
 end
