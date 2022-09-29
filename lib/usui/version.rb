@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 module Usui
-  VERSION = '0.0.6.2'.freeze
+  VERSION = '0.0.6.2.pre'.freeze
 end
 
 # 0.0.1→hello,world

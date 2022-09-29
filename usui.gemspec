@@ -13,5 +13,5 @@ Gem::Specification.new do |spec|
   spec.description   = "Usui can be compressed and decompressed 18 file."
   spec.homepage      = "https://github.com/takkii/usui"
   spec.license       = "MIT"
-  spec.files         = ["usui.jar"]
+  # spec.files         = ["usui.jar"]
 end
